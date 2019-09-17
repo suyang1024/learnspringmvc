@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-redirect" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07-exception" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08-dataconverter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-validation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-upload" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/11-interceptor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/12-crud" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/13-restful" charset="UTF-8" />
+  </component>
+</project>

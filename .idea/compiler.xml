@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="_07exception" />
+        <module name="_08dataconverter" />
+        <module name="_09validation" />
+        <module name="_10upload" />
+        <module name="_11interceptor" />
+        <module name="_12crud" />
+        <module name="_13restful" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
